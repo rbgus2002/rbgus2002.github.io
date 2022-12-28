@@ -53,6 +53,18 @@ menu:
     url:               /algorithm/
   - title:             Java
     url:               /java/   
+  - title:             Spring
+    url:               /java/   
+  - title:             Operating System
+    url:               /java/   
+  - title:             Network
+    url:               /java/
+  - title:             Investment
+    url:               /java/              
+  - title:             Retrospective
+    url:               /java/     
+  - title:             Etc
+    url:               /java/
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -155,7 +167,7 @@ kramdown:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-# google_analytics:      UA-XXXXXXXX-X
+# google_analytics:      G-0M8S0WHYMY
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
