@@ -1,11 +1,9 @@
 ---
 layout: post
-title: 임시
-image: 
-  path: /assets/img/blog/jeremy-bishop@0,5x.jpg
+title: algorithm임시
+categories: algorithm
 description: >
-  Version 9 is the most complete version of Hydejack yet.
-  Modernized design, big headlines, and big new features.
+  ALGORITHM!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 sitemap: false
 ---
 

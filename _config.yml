@@ -29,7 +29,7 @@ description:           >
 
 
 # A shorter description for the sidebar.
-tagline:               뭐요
+tagline:               욕심만 많은 사람
 
 # A list of keywords for your blog
 keywords:              []
@@ -50,14 +50,14 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Algorithm
-    url:               /example/
+    url:               /algorithm/
   - title:             Java
     url:               /java/   
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
 
-# Pagination configuration (used by the `blog` layout)
+# Pagination configuration (used by the `b  log` layout)
 paginate:              10
 paginate_path:         /:num/
 
