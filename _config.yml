@@ -54,17 +54,19 @@ menu:
   - title:             Java
     url:               /java/   
   - title:             Spring
-    url:               /java/   
+    url:               /spring/   
   - title:             Operating System
-    url:               /java/   
+    url:               /os/   
   - title:             Network
-    url:               /java/
+    url:               /network/
   - title:             Investment
-    url:               /java/              
+    url:               /investment/              
   - title:             Retrospective
-    url:               /java/     
+    url:               /retrospective/     
+  - title:             private > 내가 가지고 있는 생각
+    url:               /private/    
   - title:             Etc
-    url:               /java/
+    url:               /etc/
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
