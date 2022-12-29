@@ -1,9 +1,7 @@
 ---
 layout: list
-title: Network Title
+title: Network
 slug: network
 description: >
-  Network description
+  Network
 ---
-
-asdasdas

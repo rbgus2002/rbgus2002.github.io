@@ -1,9 +1,7 @@
 ---
 layout: list
-title: Java Title
+title: Java
 slug: java
 description: >
-  Java description
+  Java study
 ---
-
-asdasdas
