@@ -1,9 +1,7 @@
 ---
 layout: list
-title: OS Title
+title: Operating System
 slug: os
 description: >
-  OS description
+  OS study
 ---
-
-asdasdas

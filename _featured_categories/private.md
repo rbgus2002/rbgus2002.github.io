@@ -1,9 +1,9 @@
 ---
 layout: list
-title: private Title
+title: private > ESSAY
 slug: private
 description: >
-  private description
+  오글주의 ㅋ.ㅋ
+  
 ---
-
-asdasdas
+내가 가지고 살아가는 생각

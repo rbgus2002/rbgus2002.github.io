@@ -63,7 +63,7 @@ menu:
     url:               /investment/              
   - title:             Retrospective
     url:               /retrospective/     
-  - title:             private > 내가 가지고 있는 생각
+  - title:             private > ESSAY
     url:               /private/    
   - title:             Etc
     url:               /etc/
