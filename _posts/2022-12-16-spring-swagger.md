@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 스프링부트 Swagger 사용하기
+title: 스프링에서 Swagger 사용하기
 categories: 
-  - java
+  - spring
 description: >
   
 sitemap: true
 ---
-스프링부트 Swagger 사용하기
+스프링에서 Swagger 사용하기
 
 
 ## 왜 사용해야 하는가

@@ -1,9 +1,7 @@
 ---
 layout: list
-title: Retrospective Title
+title: Retrospective
 slug: retrospective
 description: >
-  retrospective description
+  자주 회고하기
 ---
-
-asdasdas
